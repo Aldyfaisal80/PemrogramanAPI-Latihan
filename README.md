@@ -1,5 +1,6 @@
 ## Data Diri
 
+|---------------|--------------------|
 | NIM           | 22104410012        |
 | Nama Lengkap  | [ALDY IBNU FAIZAL](https://github.com/Aldyfaisal80)|
 | Kelas         | TI-5A              |
